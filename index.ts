@@ -71,5 +71,3 @@ rl.question('Enter orderId: ', userInput=>{
     tracker1.trackOrder(userInput);
     rl.close();
 })
-
-//
